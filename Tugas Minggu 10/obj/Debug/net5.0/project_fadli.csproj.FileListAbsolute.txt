@@ -1,0 +1,16 @@
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.exe
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.deps.json
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.runtimeconfig.json
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.runtimeconfig.dev.json
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.dll
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\ref\project_fadli.dll
+C:\xampp\htdocs\project_fadli\bin\Debug\net5.0\project_fadli.pdb
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.csproj.AssemblyReference.cache
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.AssemblyInfoInputs.cache
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.AssemblyInfo.cs
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.dll
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\ref\project_fadli.dll
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.pdb
+C:\xampp\htdocs\project_fadli\obj\Debug\net5.0\project_fadli.genruntimeconfig.cache

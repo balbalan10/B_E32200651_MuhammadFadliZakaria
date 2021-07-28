@@ -13,6 +13,8 @@ class PendidikanController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    {
     public function index()
     {
         return view('backend.pendidikan.index');
@@ -62,7 +64,7 @@ class PendidikanController extends Controller
      */
     public function edit($id)
     {
-        //
+       //
     }
 
     /**
@@ -74,7 +76,7 @@ class PendidikanController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+       //
     }
 
     /**
